@@ -1,1 +1,0 @@
-# Supporting files for MedEasy
